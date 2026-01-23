@@ -1,5 +1,5 @@
 # 💫 About Me:
-- Hi, I’m Rupesh Surve, a 2nd-year B.Voc ( Software Development) student passionate about software development and building real-world projects.<br>- I am currently improving my skills in Web Development(Html, CSS, JS, React), C++, Java, Python and Database Management.<br>- I enjoy solving problems, creating clean user interfaces, and learning new technologies through hands-on practice.
+- Hi, I’m Rupesh Surve, a 2nd-year B.Voc ( Software Development) student passionate about software development and building real-world projects.<br>- I am currently improving my skills in Web Development(Html, CSS, JS(React, Express, Node.js) ), C++, Java, Python and Database Management.<br>- I enjoy solving problems, creating clean user interfaces, and learning new technologies through hands-on practice.
 
 
 ## 🌐 Socials:
