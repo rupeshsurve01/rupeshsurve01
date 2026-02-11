@@ -57,7 +57,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rupeshsurve01&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rupeshsurve01)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rupeshsurve01&theme=radical&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 <!-- Snake Game Repo View -->
