@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rupesh Surve</h1>
-<h3 align="center">🚀 Passionate MERN Stack Developer | C++ | Java | Python</h3>
+<h3 align="center">🚀 Passionate MERN Stack Developer | C++ | Java | Python | Tailwind CSS | DSA | SQL </h3>
 
 <p align="center">
   <a href="mailto:rupeshsurve302@gmail.com">
