@@ -36,7 +36,7 @@
 ---
 
 ## 🌟 Quote I Believe In
- "Code. Learn. Build. Repeat."
+ "Learn. Code. Build. Repeat."
 
 ---
 
