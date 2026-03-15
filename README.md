@@ -40,9 +40,6 @@
 
 ---
 
-⭐ **Feel free to check out my repositories and connect with me!**
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rupesh_surve_01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rupeshsurve) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rupeshsurve_01) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rupeshsurve302@gmail.com ) 
 
@@ -69,6 +66,12 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+⭐ **Feel free to check out my repositories and connect with me!**
+
+---
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=rupeshsurve01&limit=5&theme=dark&combine_all_yearly_contributions=true)
