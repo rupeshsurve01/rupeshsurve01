@@ -13,7 +13,7 @@
 
 ## 💫 About Me
 
-🎓 I am a **2nd-year B.Voc (Software Development)** student.  
+🎓 I am a **final year B.Voc (Software Development)** student.  
 💻 Passionate about **Software Development** and building **real-world projects**.  
 🌱 Currently improving my skills in **Web Development & Programming Languages**.  
 🎯 I enjoy solving problems, creating clean UI designs, and learning new technologies through hands-on practice.  
