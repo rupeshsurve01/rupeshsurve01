@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rupesh Surve</h1>
-<h3 align="center">🚀 Passionate MERN Stack Developer | C++ | Java | Python | Tailwind CSS | DSA | SQL </h3>
+<h3 align="center">🚀 Full Stack Developer | MERN Stack | Laravel | Java | Python | Tailwind CSS | DSA | SQL </h3>
 
 <p align="center">
   <a href="mailto:rupeshsurve302@gmail.com">
@@ -13,11 +13,12 @@
 
 ## 💫 About Me
 
-🎓 I am a **final year B.Voc (Software Development)** student.  
-💻 Passionate about **Software Development** and building **real-world projects**.  
-🌱 Currently improving my skills in **Web Development & Programming Languages**.  
-🎯 I enjoy solving problems, creating clean UI designs, and learning new technologies through hands-on practice.  
-
+* 🎓 Final-year **B.Voc (Software Development)** student
+* 💼 Currently working as a **Full Stack Developer Intern**
+* 🌱 Learning and building scalable applications using **MERN Stack & Laravel**
+* 💻 Passionate about building **real-world full-stack applications**
+* 🧠 Strong interest in **Backend Development, System Design, APIs & Databases**
+* ⚡ Solved **200+ DSA problems** across coding platforms
 ---
 
 ## 💬 Ask Me About
