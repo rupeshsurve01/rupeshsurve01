@@ -18,7 +18,7 @@
 * 🌱 Learning and building scalable applications using **MERN Stack & Laravel**
 * 💻 Passionate about building **real-world full-stack applications**
 * 🧠 Strong interest in **Backend Development, System Design, APIs & Databases**
-* ⚡ Solved **200+ DSA problems** across coding platforms
+* ⚡ Solved **300+ DSA problems** across coding platforms
 ---
 
 ## 💬 Ask Me About
